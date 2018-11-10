@@ -1,4 +1,5 @@
 token=NDkxOTg4Nzc1NzA3MjEzODM1.DoP-eg.1UOBk4sOPdzP0Km3j2lqjYA8MKI
 owner=507647817280389126
 prefix=5
+game=5play
 stayinchannel=true
